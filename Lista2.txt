@@ -1,0 +1,2 @@
+ttp://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+http://198.1.123.99:1935/live/_definst_/myStream/chunklist_w349948659.m3u8
